@@ -3,7 +3,7 @@ YBIGTA Science Team
 DACON Code NLP Solution
 
 ### 📑 Docs
-- `python preprocessing.py` to make custom dataset <br/>
+- `python preprocessing.py` to make custom dataset (train_data.csv, val_data.csv) <br/>
 - `python pipeline.py` to train model with custom dataset <br/>
 - `python Inference.py` to make predictions with trained model(\weights\codeBERT.pth) <br/>
 
@@ -28,5 +28,5 @@ DACON Code NLP Solution
 ├── sample_train.csv <br/>
 ├── submission_codeBERTa.csv <br/>
 ├── test.csv <br/>
-├── train_data.csv <br/>
-└── val_data.csv <br/>
+├── train_data.csv <br/> : 3.0GB
+└── val_data.csv <br/> : 50MB
